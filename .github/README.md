@@ -10,6 +10,8 @@ Please [file an issue](https://github.com/toeverything/AFFiNE-docs/issues) if yo
 
 ## Get Started
 
-To start browsing the docs you can navigate to the landing page - [GitBook README](../README.md)
+This repo is split into folders - with each folder being a seperate category of documentation.
 
-- Some pages may not display correctly on GitHub, be sure to check the corresponding on GitBook.
+You can browse the folders to view the pages within each category.
+
+Please Note: Some pages may not display correctly on GitHub, be sure to check the corresponding on GitBook.
