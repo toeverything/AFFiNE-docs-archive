@@ -4,7 +4,7 @@
 
 [Developer Docs](developer-docs/welcome.md) Looking to develop on/with AFFiNE? Make contributions on GitHub? Check out our dev docs.
 
-[Internationalization](https://github.com/CJSS/docs-test/blob/all-in-1/internationalizatio/welcome.md) Interested in our internationalization and helping translate AFFiNE to reach the world?
+[Internationalization](internationalization/welcome.md) Interested in our internationalization and helping translate AFFiNE to reach the world?
 
 [AFFiNE Ambassadors](affine-ambassadors/welcome.md) Want to help spread the word of AFFiNE and have access to talk with the team directly?
 
