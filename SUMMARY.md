@@ -43,7 +43,7 @@
 * [🎁 Benefits](affine-ambassadors/benefits.md)
 * [📋 Apply](affine-ambassadors/apply.md)
 * [❓ FAQ](affine-ambassadors/faq.md)
-* [™ Branding resources](affine-ambassadors/branding-resources.md)
+* [Branding resources](affine-ambassadors/branding-resources.md)
 * [📝 Best practices](affine-ambassadors/best-practices.md)
 * [📑 Resources](affine-ambassadors/resources.md)
 
