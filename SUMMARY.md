@@ -2,13 +2,13 @@
 
 * [Welcome to the AFFiNE Docs!](README.md)
 
-## ⭐ Getting Started
+## Getting Started
 
 * [🎉 Welcome](getting-started/welcome.md)
 * [🆒 Install AFFiNE with Docker](getting-started/install-affine-with-docker.md)
 * [🌟 How to Get Help](getting-started/how-to-get-help.md)
 
-## 🧑💻 Developer Docs
+## Developer Docs
 
 * [🎉 Welcome](developer-docs/welcome.md)
 * [🌳 Quick Start](developer-docs/quick-start.md)
@@ -30,13 +30,13 @@
 * [📚 Glossary](developer-docs/glossary.md)
 * [📒 AFFiNE Mentorship Program](developer-docs/affine-mentorship-program.md)
 
-## 🌐 Internationalization
+## Internationalization
 
 * [🎉 Welcome](internationalization/welcome.md)
 * [📋 Apply](internationalization/apply.md)
 * [📘 Operation Guide](internationalization/operation-guide.md)
 
-## 💼 AFFiNE Ambassadors
+## AFFiNE Ambassadors
 
 * [🎉 Welcome](affine-ambassadors/welcome.md)
 * [✔ Requirements](affine-ambassadors/requirements.md)
@@ -47,7 +47,7 @@
 * [📝 Best practices](affine-ambassadors/best-practices.md)
 * [📑 Resources](affine-ambassadors/resources.md)
 
-## ™ Branding Resources
+## Branding Resources
 
 * [🎉 Welcome](branding-resources/welcome.md)
 * [Logo (icon)](branding-resources/logo-icon.md)
@@ -56,13 +56,13 @@
 * [Tagline banners](branding-resources/tagline-banners.md)
 * [Colors](branding-resources/colors.md)
 
-## 🏘 Community Links
+## Community Links
 
 * [🗣 Official communities](community-links/official-communities.md)
 * [📗 Community resources](community-links/community-resources.md)
 * [📢 Feedback - Features, Bugs, Roadmap](https://feedback.affine.pro)
 
-## ✨ Feedback
+## Feedback
 
 * [💡 Feature Requests](https://feedback.affine.pro/boards/feature-requests)
 * [🐛 Bug Reports](https://feedback.affine.pro/boards/bug-reports)
