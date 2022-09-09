@@ -10,10 +10,16 @@
 
 [™️ Branding Resources](branding-resources/welcome.md) Some branding and style designs and resources for AFFiNE
 
-Want to submit feedback?
+
+
+### Want to get in touch?
 
 [Feedback Website](https://feedback.affine.pro/)
 
 * [💡 Feature Requests](https://feedback.affine.pro/boards/feature-requests)
 * [🐛 Bug Reports](https://feedback.affine.pro/boards/bug-reports)
 * [🛣️ Feedback Roadmap](https://feedback.affine.pro/roadmap)
+
+{% content-ref url="community-links/official-communities.md" %}
+[official-communities.md](community-links/official-communities.md)
+{% endcontent-ref %}
