@@ -14,4 +14,4 @@ This repo is split into folders - with each folder being a seperate category of 
 
 You can browse the folders to view the pages within each category.
 
-Please Note: Some pages may not display correctly on GitHub, be sure to check the corresponding on GitBook.
+Please note: Some pages may not display correctly on GitHub, be sure to check the corresponding page on GitBook.
