@@ -14,7 +14,7 @@ Then we setup our variable (inside our app function)
 const { t } = useTranslation();
 ```
 
-<figure><img src="../../.gitbook/assets/developer-docs_contributions_internationalization_keys.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/developer-docs_contributions_internationalization_setup.png" alt=""><figcaption></figcaption></figure>
 
 ##  Updating keys
 
@@ -26,4 +26,4 @@ The file format is JSON and can be found within the AFFiNE app under the followi
 libs/datasource/i18n/src/resources/en.json
 ```
 
-<figure><img src="../../.gitbook/assets/developer-docs_contributions_internationalization_setup.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/developer-docs_contributions_internationalization_keys.png" alt=""><figcaption></figcaption></figure>
