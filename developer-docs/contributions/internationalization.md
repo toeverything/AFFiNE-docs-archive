@@ -4,17 +4,46 @@ AFFiNE should be available to everyone everywhere, and we don't want language to
 
 ## Setup
 
-First we import the translation API
+You may refer to the below commented code as an example of how to use and implement i18n. The example code displays the 'text' key in the selected language and displays two language buttons for the user to switch between.
+
 ```
+// Import our translation API
 import { useTranslation } from '@toeverything/datasource/i18n';
+
+// src/resources/en.json
+// {
+//     'Text': 'some text',
+//     'Switch to language': 'Switch to {{language}}', // <- you can interpolation by curly brackets
+// };
+
+const App = () => {
+    // Define a variable for our translation function
+    const { t } = useTranslation();
+
+    // This function allows for i18n on the page - updating the keys to the selected langauge
+    const changeLanguage = (language: string) => {
+        i18n.changeLanguage(language);
+    };
+
+    return (
+        <div>
+            // This usees our t function to display the 'text' key.
+            <div>{t('Text')}</div>
+
+            // These buttons change the current active language
+            <button onClick={() => changeLanguage('en')}>
+                {t('Switch to language', { language: 'en' })}
+            </button>
+            <button onClick={() => changeLanguage('zh-Hans')}>
+                {t('Switch to language', { language: 'zh-Hans' })}
+            </button>
+            
+        </div>
+    );
+};
 ```
 
-Then we setup our variable (inside our app function)
-```
-const { t } = useTranslation();
-```
-
-<figure><img src="../../.gitbook/assets/developer-docs_contributions_internationalization_setup.png" alt=""><figcaption></figcaption></figure>
+If new keys are added to a file, they must be updated in the language file. See below for updating keys.
 
 ##  Updating keys
 
