@@ -13,7 +13,6 @@
 * [🎉 Welcome](developer-docs/welcome.md)
 * [🌳 Setup](developer-docs/setup.md)
 * [🖥️ Working with our code](developer-docs/working-with-our-code.md)
-* [📖 Contributing Guide (GitHub)](https://github.com/toeverything/AFFiNE/blob/develop/docs/CONTRIBUTING.md)
 * [🖥 Contributions](developer-docs/contributions/README.md)
   * [☘ Writing CSS in AFFiNE](developer-docs/contributions/writing-css-in-affine.md)
   * [💐 Adding UI Components](developer-docs/contributions/adding-ui-components/README.md)
