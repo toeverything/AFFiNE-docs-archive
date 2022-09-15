@@ -6,7 +6,7 @@ AFFiNE should be available to everyone everywhere, and we don't want language to
 
 You may refer to the below commented code as an example of how to use and implement i18n. The example code displays the 'text' key in the selected language and displays two language buttons for the user to switch between.
 
-```
+```tsx
 // Import our translation API
 import { useTranslation } from '@toeverything/datasource/i18n';
 
