@@ -1,4 +1,4 @@
-# 🌳 Quick Start
+# Setup
 
 ##  Pre-requisites 
 Before you follow the rest of this guide you'll want to make sure you have installed [Node.js](https://nodejs.org/) (>=16) and [pnpm](https://pnpm.io/). You'll also need Git setup to pull our source code from GitHub.
