@@ -1,9 +1,7 @@
 # 💎 Collaboration (JWST)
 
-JWST is a set of collaborative backend and database implemented based on CRDTs.
+JWST is our collaborative backend and database which is implemented based on CRDT.
 
-It is the core to resolve conflicts between the duplication of data and manage the databases so that real-time collaboration and local-first storage is possible. It supports local storage and serve-side storage.
+This component is critically in resolving conflicts between the duplication of data and managing the databases so that real-time collaboration and local-first storage is possible. With support for decentralized storage coming soon.
 
-The support for decentralized storage will be supported soon.
-
-We will also adding more general-purposed-friendly APIs so that JWST can be used for other projects aside from Affine, too.
+We will also adding more general-purposed-friendly APIs so that JWST can be utilized in other projects and is more developer friendly.
