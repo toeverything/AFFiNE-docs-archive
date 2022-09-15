@@ -1,4 +1,4 @@
-# 🖥 Contributions
+# Contributions
 
 Welcome to the AFFiNE software development documentation.
 
