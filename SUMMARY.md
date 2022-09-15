@@ -11,16 +11,14 @@
 ## Developer Docs
 
 * [🎉 Welcome](developer-docs/welcome.md)
-* [🌳 Quick Start](developer-docs/quick-start.md)
+* [🌳 Setup](developer-docs/setup.md)
+* [🖥️ Working with our code](developer-docs/working-with-our-code.md)
 * [📖 Contributing Guide (GitHub)](https://github.com/toeverything/AFFiNE/blob/develop/docs/CONTRIBUTING.md)
 * [🖥 Contributions](developer-docs/contributions/README.md)
   * [☘ Writing CSS in AFFiNE](developer-docs/contributions/writing-css-in-affine.md)
   * [💐 Adding UI Components](developer-docs/contributions/adding-ui-components/README.md)
     * [📐 Customize rollup config](developer-docs/contributions/adding-ui-components/customize-rollup-config.md)
   * [🌱 Icons](developer-docs/contributions/icons.md)
-  * [❤ Making Code Contributions](developer-docs/contributions/making-code-contributions/README.md)
-    * [⌨ AFFiNE Code Guideline](developer-docs/contributions/making-code-contributions/affine-code-guideline.md)
-    * [⌨ AFFiNE Git Guideline](developer-docs/contributions/making-code-contributions/affine-git-guideline.md)
   * [🌐 Internationalization](developer-docs/contributions/internationalization.md)
 * [🔭 Architecture](developer-docs/architecture/README.md)
   * [🎼 CodeMap](developer-docs/architecture/codemap.md)
