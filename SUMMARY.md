@@ -21,7 +21,7 @@
   * [❤ Making Code Contributions](developer-docs/contributions/making-code-contributions/README.md)
     * [⌨ AFFiNE Code Guideline](developer-docs/contributions/making-code-contributions/affine-code-guideline.md)
     * [⌨ AFFiNE Git Guideline](developer-docs/contributions/making-code-contributions/affine-git-guideline.md)
-  * [Translate AFFiNE](https://app.gitbook.com/o/pNMK9JUMRELpz7tevABi/s/8WyRdEbzJNYbD1JatI7T/)
+  * [🌐 Internationalization](developer-docs/contributions/internationalization.md)
 * [🔭 Architecture](developer-docs/architecture/README.md)
   * [🎼 CodeMap](developer-docs/architecture/codemap.md)
   * [💫 Editor (Virgo)](developer-docs/architecture/editor-virgo.md)
