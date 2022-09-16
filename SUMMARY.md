@@ -33,7 +33,7 @@
 * [📋 Apply](internationalization/apply.md)
 * [📘 Operation Guide](internationalization/operation-guide.md)
 * [📝 Contributors](internationalization/contributors.md)
-* 
+
 ## AFFiNE Ambassadors
 
 * [🎉 Welcome](affine-ambassadors/welcome.md)
