@@ -20,6 +20,7 @@
 * [🐛 Bug Reports](https://feedback.affine.pro/boards/bug-reports)
 * [🛣️ Feedback Roadmap](https://feedback.affine.pro/roadmap)
 
+We are also active on various social and community platforms, head over to the communities page to find our official groups and pages:
 {% content-ref url="community-links/official-communities.md" %}
 [official-communities.md](community-links/official-communities.md)
 {% endcontent-ref %}
