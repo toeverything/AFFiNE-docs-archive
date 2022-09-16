@@ -17,23 +17,23 @@ To get started the first thing you will need to do is login to our international
 
     You may need to contact us if you do not have the permissions to see both of these projects.
 
-<figure><img src="../.gitbook/assets/translation-project-list.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/internationalization_operation-guide_translation-project-list.png" alt=""><figcaption></figcaption></figure>
 
 * Once you've selected a project you will be taken to the project dashboard. From here you can choose the language you wish to offer localization/translation for.\
   You can choose a language from the list or chose the languages directly from the translations page (accessible from the left navbar)
 
-<figure><img src="../.gitbook/assets/translation-project-dash.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/internationalization_operation-guide_translation-project-dash.png" alt=""><figcaption></figcaption></figure>
 
 * On the translation page you can directly being working and translating strings and text.
 
-<figure><img src="../.gitbook/assets/translation-language-list.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/internationalization_operation-guide_translation-language-list.png" alt=""><figcaption></figcaption></figure>
 
 * You can also filter, to find untranslated strings.
 
-<figure><img src="../.gitbook/assets/translation-filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/internationalization_operation-guide_translation-filter.png" alt=""><figcaption></figcaption></figure>
 
 * Once you've done editing/adding a comment. Don't forget to save!
 
-<figure><img src="../.gitbook/assets/translation-translate.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/internationalization_operation-guide_translation-translate.png" alt=""><figcaption></figcaption></figure>
 
 That's it! We thank you for your contributions in helping make AFFiNE available to wider audiences and communities.

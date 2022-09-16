@@ -2,18 +2,18 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/08.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/09.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_02.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_03.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_04.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
