@@ -4,7 +4,7 @@ AFFiNE is a next-gen knowledge base that brings planning, sorting, and creating 
 
 Open-source, privacy-first, and always free.
 
-<figure><img src="../.gitbook/assets/总图- update.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started_dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ### **Features of** AFFiNE
 
@@ -16,7 +16,7 @@ We make the shift and reshape easy, so you can shape the docs your way.
 
 With AFFiNE, every page comes with 2 views, and you can access and edit fully functioned blocks anywhere, in any form.
 
-<figure><img src="../.gitbook/assets/gif1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started_welcome_01.gif" alt=""><figcaption></figcaption></figure>
 
 #### Plan your task
 
@@ -24,7 +24,7 @@ We really appreciate the idea of Monday, Airtable, and Notion database. They ins
 
 With AFFiNE, every block group has infinite views, for you to keep your single source of truth.
 
-<figure><img src="../.gitbook/assets/gif2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started_welcome_02.gif" alt=""><figcaption></figcaption></figure>
 
 #### Sort your knowledge
 
@@ -32,4 +32,4 @@ A good, semantic knowledge base is made of reusable, linked elements. AFFiNE is 
 
 As semantic web lovers, we don't like the idea of folders that much, and we make everything easy to find.
 
-<figure><img src="../.gitbook/assets/gif3.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started_welcome_03.gif" alt=""><figcaption></figcaption></figure>
