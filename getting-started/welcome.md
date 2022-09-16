@@ -4,7 +4,7 @@ AFFiNE is a next-gen knowledge base that brings planning, sorting, and creating 
 
 Open-source, privacy-first, and always free.
 
-<figure><img src="../.gitbook/assets/getting-started_dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getting-started_welcome_dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ### **Features of** AFFiNE
 
