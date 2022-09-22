@@ -5,6 +5,6 @@ AFFiNE relies on its community for internationalization and localization, so her
 | Language                   | Code    | Contributor(s)          | Last Active |
 |----------------------------|---------|-------------------------|-------------|
 | Chinese (Traditional)      | zh-Hant | Leonard                 | 09.2022     |
-| German                     | de      | Mathematti              | 09.2022     |
+| German                     | de      | Mathematti, mootzzl     | 09.2022     |                  
 | Serbian                    | sr      | monika2401              | 09.2022     |
 | Spanish                    | es      | Edenilson LR            | 09.2022     |
