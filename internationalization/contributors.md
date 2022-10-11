@@ -9,6 +9,5 @@ AFFiNE relies on its community for internationalization and localization, so her
 | Serbian                    | sr      | monika2401              | 09.2022      |
 | Spanish                    | es      | Edenilson LR            | 09.2022      |
 |                            |         |                         |              |
-|----------------------------|---------|-------------------------|--------------|
 | Bangla                     | bn      | enamulhasanabid         | In progress  |
 | French                     | fr      | Philippe Roca           | In progress  |
