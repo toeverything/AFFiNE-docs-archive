@@ -2,7 +2,7 @@
 
 AFFiNE is a next-gen knowledge base that brings planning, sorting, and creating altogether. Form your knowledge console at your wish.
 
-Open-source, privacy-first, and always free.
+Open-source, privacy-first, and always free - built with <a href="https://block-suite.com">BlockSuite</a>.
 
 <figure><img src="../.gitbook/assets/getting-started_welcome_dashboard.png" alt=""><figcaption></figcaption></figure>
 
