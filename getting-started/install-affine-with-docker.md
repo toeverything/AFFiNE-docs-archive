@@ -63,5 +63,5 @@ docker ps
 This command shows a list of running containers - in the list you should be able to find AFFiNE.
 
 * Now you can access AFFiNE from your browser via:
-  * If you are running Docker on your local machine and using the default settings you can access via port 4200 through localhost: [http://localhost:3000/](http://localhost:3000/)
+  * If you are running Docker on your local machine and using the default settings you can access via port 3000 through localhost: [http://localhost:3000/](http://localhost:3000/)
   * Otherwise you will need to know the {IP} of the machine using Docker and the {PORT} that AFFiNE is using.
