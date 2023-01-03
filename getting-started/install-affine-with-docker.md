@@ -1,5 +1,7 @@
 # 🆒 Install AFFiNE with Docker
 
+! Please note that the current Docker deploys the pre-alpha version. We are still working on creating a Docker image for the newer alpha version, please bear with us.
+
 This guide assumes you already have an environment setup running docker.
 
 Currently there are two main versions:
