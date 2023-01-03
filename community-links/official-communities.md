@@ -4,11 +4,11 @@ Looking to join the community? Here is a list of our official platforms.
 
 Website: [https://AFFiNE.pro](https://affine.pro)
 
+Community: [https://community.AFFiNE.pro](https://community.affine.pro)
+
 Blog: [https://blog.AFFiNE.pro](https://blog.affine.pro)
 
 Documentation: [https://docs.AFFiNE.pro](https://docs.affine.pro)
-
-Feedback: [https://feedback.AFFiNE.pro](https://feedback.affine.pro)
 
 GitHub: [https://github.com/toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 
