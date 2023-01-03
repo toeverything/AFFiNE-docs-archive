@@ -16,8 +16,8 @@ git clone https://github.com/toeverything/AFFiNE.git
 
 Currently we have two versions of AFFiNE:
 
-* [AFFiNE Pre-Alpha](https://livedemo.affine.pro/). This version users the branch `master`, however is no longer actively developed and will be archived in the future.
-* [AFFiNE Alpha](https://pathfinder.affine.pro/). This version uses the `pathfinder` branch, this is the latest version under active development. We plan to update this to the master branch in the near future.
+* [AFFiNE Alpha](https://pathfinder.affine.pro/). This version uses the `master` branch, this is the latest version under active development. We plan to update this to the master branch in the near future.
+* [AFFiNE Pre-Alpha](https://livedemo.affine.pro/). This version uses the branch `pre-alpha`, however is no longer actively developed and has been effectively archived.
 
 Select the master branch
 
