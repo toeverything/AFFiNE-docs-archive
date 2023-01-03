@@ -14,11 +14,7 @@
 
 ### Want to get in touch?
 
-[Feedback Website](https://feedback.affine.pro/)
-
-* [💡 Feature Requests](https://feedback.affine.pro/boards/feature-requests)
-* [🐛 Bug Reports](https://feedback.affine.pro/boards/bug-reports)
-* [🛣️ Feedback Roadmap](https://feedback.affine.pro/roadmap)
+[AFFiNE Community](https://community.affine.pro/)
 
 We are also active on various social and community platforms, head over to the communities page to find our official groups and pages:
 {% content-ref url="community-links/official-communities.md" %}
