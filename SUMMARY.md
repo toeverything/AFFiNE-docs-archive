@@ -56,9 +56,9 @@
 
 ## Community Links
 
-* [🗣 Official communities](community-links/official-communities.md)
-* [📗 Community resources](community-links/community-resources.md)
-* [📢 Feedback - Features, Bugs, Roadmap](https://feedback.affine.pro)
+* [📢 AFFiNE Community](https://community.affine.pro)
+* [🗣 Official Communities](community-links/official-communities.md)
+* [📗 Community Resources](community-links/community-resources.md)
 
 ## Feedback
 
