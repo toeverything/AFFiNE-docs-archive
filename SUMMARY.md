@@ -23,7 +23,7 @@
   * [🎼 CodeMap](developer-docs/architecture/codemap.md)
   * [💫 Editor (Virgo)](developer-docs/architecture/editor-virgo.md)
   * [🦄 Whiteboard (Phasor)](developer-docs/architecture/whiteboard-phasor.md)
-  * [💎 Collaboration (JWST)](developer-docs/architecture/collaboration-jwst.md)
+  * [💎 Collaboration (OctoBase)](developer-docs/architecture/collaboration-octobase.md)
 * [📚 Glossary](developer-docs/glossary.md)
 * [📒 AFFiNE Mentorship Program](developer-docs/affine-mentorship-program.md)
 

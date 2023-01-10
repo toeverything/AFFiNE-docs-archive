@@ -1,16 +1,16 @@
-# ™ Branding resources
+# 📚 Branding resources
 
-{% file src="../.gitbook/assets/AFFiNE-branding-all.zip" %}
+{% file src="../.gitbook/assets/branding-resources_all.zip" %}
 
 ### Logo (Icon)
 
 <div>
 
-<figure><img src="../.gitbook/assets/01.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-icon_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/02.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-icon_02.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,11 +18,11 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/03.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-text_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-text_02.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,15 +30,15 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/05.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-3d_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-3d_02.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/07.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_logo-3d_03.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,19 +46,19 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/08.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/09.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_02.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_03.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_tagline-banners_04.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,10 +66,10 @@
 
 <div>
 
-<figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_colors_01.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding-resources_colors_02.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
