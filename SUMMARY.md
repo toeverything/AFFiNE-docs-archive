@@ -59,9 +59,3 @@
 * [📢 AFFiNE Community](https://community.affine.pro)
 * [🗣 Official Communities](community-links/official-communities.md)
 * [📗 Community Resources](community-links/community-resources.md)
-
-## Feedback
-
-* [💡 Feature Requests](https://feedback.affine.pro/boards/feature-requests)
-* [🐛 Bug Reports](https://feedback.affine.pro/boards/bug-reports)
-* [📘 Roadmap](https://feedback.affine.pro/roadmap)
