@@ -12,5 +12,4 @@ AFFiNE consists of 3 major components. They are all named after astronomical tel
 * [whiteboard-phasor.md](whiteboard-phasor.md "mention") - This contains the whiteboard renderer and subcomponents
   * As a dom-based vector rendering platform, it is named after the concept of [phasor](https://en.wikipedia.org/wiki/Phasor)
 
-* [collaboration-octobase.md](collaboration-octobase.md "mention") - The collaborative backend system and database 
-  * Not to be confused with JSON Web Token, JWST is named after the [James Webb Space Telescope](https://webb.nasa.gov/).
+* [collaboration-octobase.md](collaboration-octobase.md "mention") - The collaborative backend system and database
