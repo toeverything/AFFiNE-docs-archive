@@ -14,9 +14,9 @@ We encourage everyone using or interested in AFFiNE to join our community, which
 
 You can:
 
+* Head over to the [AFFiNE Community](https://community.affine.pro) to meet and engage with like-minded AFFiNE users from all over the world 
 * Get quick help on [Discord](https://discord.gg/yz6tGVsf5p) and [Telegram](https://t.me/affineworkos) along with other developers and contributors
 * Submit issues, PRs, and feature requests on [GitHub](https://github.com/toeverything/AFFiNE)
-* Submit and vote on feature requests and bug fixes on our [feedback page](https://feedback.affine.pro)
 * Engage in real-time Q\&A on [Reddit](https://www.reddit.com/r/Affine/)
 * Find our latest news and articles on [Twitter](https://twitter.com/AffineOfficial), [Medium ](https://medium.com/@affineworkos)and the [AFFiNE Blog](https://blog.affine.pro/)
 
