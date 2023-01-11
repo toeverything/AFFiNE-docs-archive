@@ -26,10 +26,10 @@ docker run -it --name affine -d -v YOUR_PATH:/app/data -p 3000:3000 ghcr.io/toev
 
 Tips:
 
-`--name` Optional - this makes it convenient for using and interacting with your Docker container - such as `docker restart affine`.
-`-v` Optional - allows you to mount your data outside of Docker to your local machine. Remember to set `YOUR_PATH` to the directory of your choice.
-`-p` Required - this sets the port for where AFFiNE is running and listening, we use the default 3000 if you need to change this only change the first number e.g. `[YOUR_PORT]:3000`
-Finally, the image id is the version of AFFiNE you wish to deploy. Following this guide, it would be the same as the previous step - so `ghcr.io/toeverything/affine-self-hosted:latest`
+* `--name` Optional - this makes it convenient for using and interacting with your Docker container - such as `docker restart affine`.
+* `-v` Optional - allows you to mount your data outside of Docker to your local machine. Remember to set `YOUR_PATH` to the directory of your choice.
+* `-p` Required - this sets the port for where AFFiNE is running and listening, we use the default 3000 if you need to change this only change the first number e.g. `[YOUR_PORT]:3000`
+* Finally, the image id is the version of AFFiNE you wish to deploy. Following this guide, it would be the same as the previous step - so `ghcr.io/toeverything/affine-self-hosted:latest`
 
 * You can confirm that AFFiNE is running successfully by using the command
 
