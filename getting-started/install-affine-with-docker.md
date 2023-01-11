@@ -10,7 +10,7 @@ Simply swap out the Docker image for which version you require, the following in
 
 ### Installing AFFiNE using Docker
 
-* Pull the latest AFFiNE image. This may take some time depending on your network connection.
+1) Pull the latest AFFiNE image. This may take some time depending on your network connection.
 
 ```
 docker pull ghcr.io/toeverything/affine-self-hosted:latest
@@ -18,20 +18,21 @@ docker pull ghcr.io/toeverything/affine-self-hosted:latest
 
 Ensure this step is completed successfully before continuing (you can rerun this command if you are unsure).
 
-* Next we will run the AFFiNE project in Docker.
+---
+
+2) Next we will run the AFFiNE project in Docker.
 
 ```
 docker run -it --name affine -d -v YOUR_PATH:/app/data -p 3000:3000 ghcr.io/toeverything/affine-self-hosted:latest
 ```
-
-Tips:
-
 * `--name` Optional - this makes it convenient for using and interacting with your Docker container - such as `docker restart affine`.
 * `-v` Optional - allows you to mount your data outside of Docker to your local machine. Remember to set `YOUR_PATH` to the directory of your choice.
 * `-p` Required - this sets the port for where AFFiNE is running and listening, we use the default 3000 if you need to change this only change the first number e.g. `[YOUR_PORT]:3000`
 * Finally, the image id is the version of AFFiNE you wish to deploy. Following this guide, it would be the same as the previous step - so `ghcr.io/toeverything/affine-self-hosted:latest`
 
-* You can confirm that AFFiNE is running successfully by using the command
+---
+
+3) You can confirm that AFFiNE is running successfully by using the command
 
 ```
 docker ps
@@ -39,7 +40,9 @@ docker ps
 
 This command shows a list of running containers - in the list you should be able to find AFFiNE.
 
+---
+
 * Now you can access AFFiNE from your browser via:
   * If you are running Docker on your local machine and using the default settings you can access via port 3000 through localhost: [http://localhost:3000/](http://localhost:3000/)
   * Otherwise you will need to know the {IP} of the machine using Docker and the {PORT} that AFFiNE is using.
-  * Bear in mind that some features require a secure environment to work, which means https and wss connections through a reverse proxy setup. For more support you may wish to find our community page: [AFFiNE Community]('https://community.affine.pro')
+  * Bear in mind that some features require a secure environment to work, which means https and wss connections through a reverse proxy setup. For more support you may wish to find our community page: [AFFiNE Community](https://community.affine.pro)
