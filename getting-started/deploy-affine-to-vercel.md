@@ -1,7 +1,7 @@
 # Deploy AFFiNE to Vercel
-[Vercel](https://vercel.com) is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+[Vercel](https://vercel.com) is a platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 
-`AFFiNE` can be simply deployed to `Vercel` with just a few mouse clicks because `Vercel` fully supports `Nextjs`, which is the stack used by `AFFiNE`.
+`AFFiNE` can be simply deployed to `Vercel` with just a few mouse clicks because `Vercel` fully supports `Next.js`, which is the stack used by `AFFiNE`.
 
 Before we begin, we'll assume you already have a `Vercel` account and have connected it to your `GitHub` account.
 
@@ -9,17 +9,20 @@ Before we begin, we'll assume you already have a `Vercel` account and have conne
 1. After logging in to [Vercel](https://vercel.com), go to your hobby page and click the `Add New... - Project` button.
 1. Click the `Import` button after selecting the AFFINE repository you forked (if you cannot access your repository, go to the Vercel team's [guide](https://vercel.com/docs/concepts/git#deploying-a-git-repository)).
 1. Next, configure your project as follows:
-   <figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_config-project.png" alt="config project"><figcaption></figcaption></figure>
-   - Build Command - `AFFiNE` use pnpm to build whole app
-   - Output Directory - output of build assets in app folder
-   - Install Command - since we set up `AFFiNE` as a `Nextjs` project, `Vercel` will detect `Nextjs` dependencies, but our work dir is root dir, if we do not hoist dependencies to top level, `Vercel` cannot find `Nextjs` dependencies, there are some error occurred
+   
+<figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_config-project.png" alt="config project"><figcaption></figcaption></figure>
+    
+  - Build Command - `AFFiNE` uses pnpm to build whole app
+  - Output Directory - output of build assets in the app folder
+  - Install Command - since we set up `AFFiNE` as a `Next.js` project, `Vercel` will detect `Next.js` dependencies, but the work dir is the root dir, so this is required as `Vercel` will otherwise not find `Next.js` dependencies
+
 1. To deploy `AFFiNE` to a production environment, click `Deploy`.
-1. After building is complete, go to the address that `Vercel` provided and enjoy!
+1. After building is complete, go to the address that `Vercel` provides and enjoy!
 
 ## Troubleshooting
 If your building fails, go to the project settings page and verify whether your `Root Directory` is accurate.
 
-Not sure if this is an issue with Vercel, but sometimes building failed when I set the `Root Directory` to `./` during the initialization of the project.
+Sometimes building fails when the `Root Directory` is set to `./` during the initialization of the project.
 
 <figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_set-root-directory.png" alt="set root directory"><figcaption></figcaption></figure>
 
