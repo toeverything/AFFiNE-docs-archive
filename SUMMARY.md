@@ -6,6 +6,7 @@
 
 * [🎉 Welcome](getting-started/welcome.md)
 * [🆒 Install AFFiNE with Docker](getting-started/install-affine-with-docker.md)
+* [💻 Deploy AFFiNE to Vercel](getting-started/deploy-affine-to-vercel.md)
 * [🌟 How to Get Help](getting-started/how-to-get-help.md)
 
 ## Developer Docs
