@@ -1,6 +1,6 @@
 # 🎉 Welcome
 
-Thank you for you interest in AFFiNE. Before you proceed we reconmmend you read the following documents from GitHub:
+Thank you for you interest in AFFiNE. Before you proceed we recommend you read the following documents from GitHub:
 
 ## GitHub Guides
 
