@@ -9,7 +9,7 @@ Before we begin, we'll assume you already have a `Vercel` account and have conne
 1. After logging in to [Vercel](https://vercel.com), go to your hobby page and click the `Add New... - Project` button.
 1. Click the `Import` button after selecting the AFFINE repository you forked (if you cannot access your repository, go to the Vercel team's [guide](https://vercel.com/docs/concepts/git#deploying-a-git-repository)).
 1. Next, configure your project as follows:
-   <img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_config-project.png" alt="config project">
+   <figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_config-project.png" alt="config project"><figcaption></figcaption></figure>
    - Build Command - `AFFiNE` use pnpm to build whole app
    - Output Directory - output of build assets in app folder
    - Install Command - since we set up `AFFiNE` as a `Nextjs` project, `Vercel` will detect `Nextjs` dependencies, but our work dir is root dir, if we do not hoist dependencies to top level, `Vercel` cannot find `Nextjs` dependencies, there are some error occurred
@@ -21,6 +21,6 @@ If your building fails, go to the project settings page and verify whether your 
 
 Not sure if this is an issue with Vercel, but sometimes building failed when I set the `Root Directory` to `./` during the initialization of the project.
 
-<img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_set-root-directory.png" alt="set root directory">
+<figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_set-root-directory.png" alt="set root directory"><figcaption></figcaption></figure>
 
 You can simply leave it empty or set it up using `./` as suggested in the tips.
