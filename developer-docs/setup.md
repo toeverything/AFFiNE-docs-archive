@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-Before you follow the rest of this guide you'll want to make sure you have installed [Node.js](https://nodejs.org/) (>=16) and [pnpm](https://pnpm.io/). You'll also need Git setup to pull our source code from GitHub.
+Before you follow the rest of this guide you'll want to make sure you have installed [Node.js](https://nodejs.org/) (>=16) and [pnpm](https://pnpm.io/) (>7.x). You'll also need Git setup to pull our source code from GitHub.
 
 We also recommend using an IDE, such as [VSCode](https://code.visualstudio.com/), and the nx console plugin is recommended for creating dependencies.
 
