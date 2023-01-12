@@ -5,7 +5,7 @@
 
 Before we begin, we'll assume you already have a `Vercel` account and have connected it to your `GitHub` account.
 
-1. Fork [AFFiNE](https://github.com/toeverything/AFFiNE) to your onn `GitHub` account.
+1. Fork [AFFiNE](https://github.com/toeverything/AFFiNE) to your own `GitHub` account.
 1. After logging in to [Vercel](https://vercel.com), go to your hobby page and click the `Add New... - Project` button.
 1. Click the `Import` button after selecting the AFFINE repository you forked (if you cannot access your repository, go to the Vercel team's [guide](https://vercel.com/docs/concepts/git#deploying-a-git-repository)).
 1. Next, configure your project as follows:
