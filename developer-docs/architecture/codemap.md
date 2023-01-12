@@ -2,7 +2,7 @@
 
 ## Naming Conventions
 
-AFFiNE consists of 3 major components. They are all named after astronomical telescopes, observatories or scientific concepts. These huge scientific man-made instruments are used to search for the faintest light in the universe and help us learn more about our universe and expand our knowledge. In a similar way, we hope AFFiNE can serve as an effecient, feature-rich knowledge base for you and the many, to disenchant the unclear, and to explore the unknown.
+AFFiNE consists of 3 major components. They are all named after astronomical telescopes, observatories, or scientific concepts. These huge scientific man-made instruments are used to search for the faintest light in the universe and help us learn more about our universe and expand our knowledge. In a similar way, we hope AFFiNE can serve as an efficient, feature-rich knowledge base for you and the many, to disenchant the unclear, and to explore the unknown.
 
 ### Main components
 
