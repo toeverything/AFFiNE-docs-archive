@@ -1,10 +1,10 @@
 # Table of contents
 
 * [⚠️](https://community.affine.pro)
-* [⚠️This website is inactive⚠️](https://community.affine.pro)
-* [⚠️For reference only⚠️](https://community.affine.pro)
-* [⚠️Please use our community site⚠️](https://community.affine.pro)
-* [⚠️community.affine.pro⚠️](https://community.affine.pro)
+* [⚠️ This website is inactive](https://community.affine.pro)
+* [⚠️ For reference only](https://community.affine.pro)
+* [⚠️ Please use our community site](https://community.affine.pro)
+* [⚠️ community.affine.pro](https://community.affine.pro)
 * [⚠️](https://community.affine.pro)
 
 ## Welcome
