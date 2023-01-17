@@ -4,7 +4,7 @@
 
 <summary>Do I need to be fluent in English?</summary>
 
-The majority of our content is in English, so it will help definitely help to be good at English. But, we welcome everyone from all over the world and we hope our community can help work together to improve accessibility and internalization through community-supported translations.
+The majority of our content is in English, so it will help definitely help to be good at English. But we welcome everyone from all over the world and we hope our community can help work together to improve accessibility and internalization through community-supported translations.
 
 </details>
 
