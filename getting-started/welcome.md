@@ -1,17 +1,3 @@
-<h1 align="center"> ⚠️ For reference only - this site and docs are not actively updated. ⚠️ </h1>
-<br />
-<h1 align="center">
-  ⚠️ Please use our community site: ⚠️
-  <br />
-  🫱 https://community.affine.pro 🫲
-</h1>
-
-<br />
-
----
-
-<br />
-
 # 🎉 Welcome
 
 AFFiNE is a next-gen knowledge base that brings planning, sorting, and creating altogether. Form your knowledge console at your wish.
