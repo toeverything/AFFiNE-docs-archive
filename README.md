@@ -1,18 +1,23 @@
-<h1 align="center"> ⚠️ For reference only - this site and docs are not actively updated. ⚠️ </h1>
-<br />
-<h1 align="center">
-  ⚠️ Please use our community site: ⚠️
-  <br />
-  🫱 https://community.affine.pro 🫲
-</h1>
-
-<br />
-
----
-
-<br />
-
 # Welcome to the AFFiNE Docs!
+
+## <mark style="color:orange;">⚠️</mark> <mark style="color:red;">For reference only</mark> <mark style="color:orange;">⚠️</mark>
+
+## <mark style="color:orange;">⚠️</mark> <mark style="color:red;">This site and docs are not actively updated.</mark> <mark style="color:orange;">⚠️</mark>
+
+\
+
+
+<mark style="color:orange;">⚠️</mark> Please use our community site: <mark style="color:orange;">⚠️</mark>\
+🫱 [https://community.affine.pro](https://community.affine.pro) 🫲\
+
+
+
+***
+
+\
+
+
+## Welcome to the AFFiNE Docs!
 
 [⭐ Getting Started](getting-started/welcome.md) General user information - including how to setup and get started using AFFiNE.
 
@@ -24,13 +29,12 @@
 
 [™️ Branding Resources](branding-resources/welcome.md) Some branding and style designs and resources for AFFiNE
 
-
-
-### Want to get in touch?
+#### Want to get in touch?
 
 [AFFiNE Community](https://community.affine.pro/)
 
 We are also active on various social and community platforms, head over to the communities page to find our official groups and pages:
+
 {% content-ref url="community-links/official-communities.md" %}
 [official-communities.md](community-links/official-communities.md)
 {% endcontent-ref %}
