@@ -1,3 +1,17 @@
+<h1 align="center"> 
+⚠️ Currently this repo is not actively used ⚠️ 
+<br/>
+⚠️ The docs.affine.pro site is not actively updated ⚠️ 
+<br/><br/>
+⚠️ Please use our community site: https://community.affine.pro ⚠️
+</h1>
+<br/>
+
+
+---
+---
+---
+
 # AFFiNE Docs
 
 This repo is the source for AFFiNE documentation.
