@@ -3,7 +3,9 @@
 <br/>
 ⚠️ The docs.affine.pro site is not actively updated ⚠️ 
 <br/><br/>
-⚠️ Please use our community site: https://community.affine.pro ⚠️
+⚠️ Please use our community site: ⚠️ 
+<br />
+🫱 https://community.affine.pro 🫲
 </h1>
 <br/>
 
