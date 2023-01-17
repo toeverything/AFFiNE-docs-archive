@@ -1,3 +1,17 @@
+<h1 align="center"> ⚠️ For reference only - this site and docs are not actively updated. ⚠️ </h1>
+<br />
+<h1 align="center">
+  ⚠️ Please use our community site: ⚠️
+  <br />
+  🫱 https://community.affine.pro 🫲
+</h1>
+
+<br />
+
+---
+
+<br />
+
 # Welcome to the AFFiNE Docs!
 
 [⭐ Getting Started](getting-started/welcome.md) General user information - including how to setup and get started using AFFiNE.
