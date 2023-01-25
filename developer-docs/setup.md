@@ -22,7 +22,7 @@ Currently we have two versions of AFFiNE:
 Select the master branch
 
 ```
-cd AFFiNE && git checkout pathfinder
+cd AFFiNE
 ```
 
 Install dependencies
