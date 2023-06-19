@@ -12,7 +12,9 @@ Before we begin, we'll assume you already have a `Vercel` account and have conne
     - Build Command - `AFFiNE` uses pnpm to build whole app
     - Output Directory - output of build assets in the app folder
     - Install Command - since we set up `AFFiNE` as a `Next.js` project, `Vercel` will detect `Next.js` dependencies, but the work dir is the root dir, so this is required as `Vercel` will otherwise not find `Next.js` dependencies
-    <figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_config-project.png" alt="config project"><figcaption></figcaption></figure>
+    <figure>
+        <img width="967" alt="image" src="https://github.com/toeverything/AFFiNE-docs/assets/5910926/ad9599c0-5a35-47d3-8f91-9eb431120c10">
+<figcaption></figcaption></figure>
 1. To deploy `AFFiNE` to a production environment, click `Deploy`.
 1. After building is complete, go to the address that `Vercel` provides and enjoy!
 
@@ -21,6 +23,7 @@ If your building fails, go to the project settings page and verify whether your 
 
 Sometimes building fails when the `Root Directory` is set to `./` during the initialization of the project.
 
-<figure><img src="../.gitbook/assets/getting-started_deploy-affine-to-vercel_set-root-directory.png" alt="set root directory"><figcaption></figcaption></figure>
+<figure><img width="967" alt="image" src="https://github.com/toeverything/AFFiNE-docs/assets/5910926/ea78d3fb-f042-4150-8b51-6f2448f95df4">
+<figcaption></figcaption></figure>
 
 You can simply leave it empty or set it up using `./` as suggested in the tips.
